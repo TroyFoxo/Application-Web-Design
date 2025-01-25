@@ -47,7 +47,7 @@
 
 <h5>Verificar estado de repositorio local --> git status</h5>
 
-<h5>Agregar archivos individualmente --> git add <\nombre de arhivo\> </h5>
+<h5>Agregar archivos individualmente --> git add nombre-de-arhivo </h5>
 
 <h5>Agregar archivos globalmente --> git add . </h5>
 
@@ -55,13 +55,13 @@
 
 <h5>Subir tus cambios al repositorio remoto --> git push </h5>
 
-<h5>Crear nueva rama en repositorio --> git branch <\nombre de nueva rama> </h5>
+<h5>Crear nueva rama en repositorio --> git branch nombre-de-nueva-rama </h5>
 
-<h5>Explorar rama de repositorio --> git checkout <\nombre de rama> </h5>
+<h5>Explorar rama de repositorio --> git checkout nombre-de-rama </h5>
 
-<h5>Eliminar rama del repositorio --> git push origin --delete <\nombre de rama> </h5>
+<h5>Eliminar rama del repositorio --> git push origin --delete nombre de rama </h5>
 
-<h5>Revertir repositorio a un commit especifico --> git revert <\hash del commit anterior> </h5>
+<h5>Revertir repositorio a un commit especifico --> git revert hash-del-commit-anterior </h5>
 
 
 
